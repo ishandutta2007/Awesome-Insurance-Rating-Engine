@@ -69,7 +69,7 @@ Below is a comparison of leading enterprise SaaS insurance rating engines, sorte
 
 Below is a curated list of active open-source insurance rating engines, actuarial libraries, and tariff construction tools, sorted by **GitHub_Stars** descending. ⭐
 
-| Project Name | Stars | Language / Ecosystem | Description & Actuarial Use Case |
+| Project Name | GitHub_Stars | Language / Ecosystem | Description & Actuarial Use Case |
 | :--- | :---: | :--- | :--- |
 | **[mharinga/insurancerating](https://github.com/mharinga/insurancerating)** | [![Stars](https://img.shields.io/github/stars/mharinga/insurancerating?style=social&color=white)](https://github.com/mharinga/insurancerating/stargazers) | R 📦 | Premier R package for actuarial risk classification and tariff construction. Features GAM risk modeling, evolutionary tree binning, and GLM tariff class generation. |
 | **[MindSetLib/Insolver](https://github.com/MindSetLib/Insolver)** | [![Stars](https://img.shields.io/github/stars/MindSetLib/Insolver?style=social&color=white)](https://github.com/MindSetLib/Insolver/stargazers) | Python 🐍 | Low-code machine learning framework for insurance pricing, reserving, and risk modeling. Designed for production deployment with PyTorch and Scikit-Learn. |
