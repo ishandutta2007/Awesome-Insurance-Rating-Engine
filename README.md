@@ -67,7 +67,7 @@ Below is a comparison of leading enterprise SaaS insurance rating engines, sorte
 
 ## 💻 Open-Source GitHub Projects & Rating Tools
 
-Below is a curated list of active open-source insurance rating engines, actuarial libraries, and tariff construction tools, sorted by **GitHub Stars** descending. ⭐
+Below is a curated list of active open-source insurance rating engines, actuarial libraries, and tariff construction tools, sorted by **GitHub_Stars** descending. ⭐
 
 | Project Name | Stars | Language / Ecosystem | Description & Actuarial Use Case |
 | :--- | :---: | :--- | :--- |
@@ -100,7 +100,7 @@ If you'd like to support ongoing maintenance and research, you can buy me a coff
 1. Fork this repository. 🍴
 2. Update or add entries to `README.md` keeping formatting consistent with existing tables. 📝
 3. Ensure SaaS entries include verified starting pricing and free tier/trial details. 🏷️
-4. For Open-Source entries, include the repository link, star badge linking to `/stargazers`, language, and clear actuarial description. 📌
+4. For Open-Source entries, include the repository link, Stars_Badge linking to `/stargazers`, language, and clear actuarial description. 📌
 5. Submit a Pull Request with a short summary of changes. 🚀
 
 ---
